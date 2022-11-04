@@ -9,8 +9,5 @@
         <module name="java-objc-bridge" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-objc-bridge" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
