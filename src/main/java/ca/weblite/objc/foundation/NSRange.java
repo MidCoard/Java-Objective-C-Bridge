@@ -67,5 +67,6 @@ public class NSRange extends Structure {
         fields.add("location");
         fields.add("length");
         return fields;
+        // modify by MidCoard
     }
 }

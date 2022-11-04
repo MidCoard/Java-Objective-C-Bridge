@@ -500,6 +500,7 @@ public class Client {
         }
         
         return messages.toArray(new Message[0]);
+        // modify by MidCoard
     }
     
     
